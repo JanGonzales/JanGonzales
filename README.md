@@ -1,5 +1,7 @@
 ### Hi there, who has a curious mind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/giphy%20(2).jpg" width="500" height="320" />
+
 I'm Jan, a Forensic Investigator who loves learning something new and self-taught python programmer 🚀. 
 
 - 🌱 I’m currently learning to be proficient in python and SQL programming; 
