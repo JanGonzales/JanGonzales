@@ -2,7 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/ezgif-7-17c025e93f3f.gif"/>
 
-I'm Jan, a Forensic Investigator with a curious mindset and a self-taught python programmer 🚀. 
+I'm Jan, a Forensic Investigator with a curious mindset and a self-taught programmer 🚀. 
+
+I've been always a passionate learner and really enjoy creating new stuff, to me programming is a place where I can create, make mistake but always come out feeling I achieve more than yesterday.
 
 - 🌱 I’m currently learning to be proficient in python and SQL programming; 
 - 💬 Ask me about anything, I am happy to help;
