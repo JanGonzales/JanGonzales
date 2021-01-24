@@ -1,6 +1,6 @@
 ### Hi there, who has a curious mind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/giphy%20(2).jpg"/>
+<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/ezgif-7-17c025e93f3f.gif"/>
 
 I'm Jan, a Forensic Investigator who loves learning something new and self-taught python programmer 🚀. 
 
