@@ -2,7 +2,7 @@
 
 I'm Jan, a Forensic Investigator who loves learning something new and self-taught python programmer 🚀. 
 
-- 🌱 I’m currently learning to be proficient in python programming; 
+- 🌱 I’m currently learning to be proficient in python and SQL programming; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [j.gonzalesnreal@gmail.com](mailto:j.gonzalesnreal@gmail.com).
 
