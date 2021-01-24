@@ -1,6 +1,6 @@
 ### Hi there, fellow programmer :milky_way: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/de3b74259b142b2e55ebef13ce63d104.gif" width="250" height="400"/>
+<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/de3b74259b142b2e55ebef13ce63d104.gif" width="250%" height="400%"/>
 
 I'm Jan, a Forensic Investigator with a curious mindset and a self-taught programmer 🚀. 
 
