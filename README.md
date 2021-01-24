@@ -4,7 +4,7 @@
 
 I'm Jan, a Forensic Investigator with a curious mindset and a self-taught programmer 🚀. 
 
-I've always been a passionate learner and really enjoy creating new stuff, to me programming is a place where I can create, make mistake but always come out feeling I achieve more than yesterday.
+I've always been a passionate learner and really enjoy creating new stuff, to me programming is a place where I can create and make mistake but always come out feeling I achieve more than yesterday.
 
 - 🌱 I’m currently learning to be proficient in python and SQL programming; 
 - 💬 Ask me about anything, I am happy to help;
