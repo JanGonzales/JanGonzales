@@ -10,8 +10,6 @@ I've been always a passionate learner and really enjoy creating new stuff, to me
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [j.gonzalesnreal@gmail.com](mailto:j.gonzalesnreal@gmail.com).
 
-//Nothing beats programming and listening to music. Please do hit me up for some recommendation, I have lo-fi music as my go-to currently.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
