@@ -1,11 +1,8 @@
 ### Hi there, who has a curious mind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
 
-<!--
-**JanGonzales/JanGonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br />
 Hi, I'm Jan, a passionate self-taught Python programmer 🚀 from the UK.
-
 
 Here are some ideas to get you started:
 
