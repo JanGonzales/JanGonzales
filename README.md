@@ -1,7 +1,5 @@
 ### Hi there, who has a curious mind <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
 
-<br />
 Hi, I'm Jan, a passionate self-taught Python programmer 🚀 from the UK.
 
 ### Connect with me:
