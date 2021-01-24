@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: www.linkedin.com/in/jangonzales0
