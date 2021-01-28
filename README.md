@@ -1,6 +1,6 @@
 ### Hi there, fellow programmer :milky_way: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/de3b74259b142b2e55ebef13ce63d104.gif" width="40%" height="65%"/>
+<img align="right" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/de3b74259b142b2e55ebef13ce63d104.gif" width="30%" height="55%"/>
 
 I'm Jan, a Forensic Investigator with a curious mindset and a self-taught programmer 🚀. 
 
@@ -25,6 +25,6 @@ I've always been a passionate learner and really enjoy creating new stuff, to me
 
 [linkedin]: https://www.linkedin.com/in/jan-gonzales-4a8bb8172/
 
+### Latest Project
 
-
-<img align="bottom" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/ezgif.com-gif-maker.gif" width="40%" height="65%"/>
+<img align="bottom" alt="GIF" src="https://github.com/JanGonzales/JanGonzales/blob/main/ezgif.com-gif-maker%20480.gif" width="40%" height="65%"/>
